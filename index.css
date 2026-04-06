@@ -1,0 +1,74 @@
+body {
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px ;
+}
+
+.header h1 {
+    font-size: 3rem;
+}
+
+.header p {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.about {
+    background: rgb(190, 189, 189);
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    margin-top: 50px;
+}
+
+.about h2 {
+    margin-bottom: 15px;
+    color: #0077b6;
+}
+
+.skills {
+    background: rgb(190, 189, 189);
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    margin-top: 40px;
+}
+
+.skills h2 {
+    color: #0077b6;
+}
+
+.contact {
+    background: rgb(190, 189, 189);
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 25px;
+    border-radius: 50px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    margin-top: 40px;
+}
+
+.contact h2 {
+    color: #0077b6;
+}
+
+a {
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    color: #666;
+}
